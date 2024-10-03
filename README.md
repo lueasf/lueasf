@@ -1,8 +1,8 @@
 # Hi, I'm Lueasf! 👋
 
-I am a passionate CS student at Telecom Nancy (France), driven by a curiosity for technology. My journey involves exploring new ideas, and sharing views with my YouTube Chanel : .
+I am a passionate CS student at Telecom Nancy (France), driven by a curiosity who never has enough time. My journey involves exploring new ideas, and sharing views with my YouTube Chanel.
 
-![Lueasf's Stats](https://github-readme-stats.vercel.app/api?username=lueasf&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Lueasf's Stats](https://github-readme-stats.vercel.app/api?username=lueasf&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
@@ -11,25 +11,24 @@ I am a passionate CS student at Telecom Nancy (France), driven by a curiosity fo
 - 🌐 Proud member of the hacking club of my engineering school [hackin'TN](https://github.com/Hackin-TN), contributing to the creation of our CTF and courses.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,tailwind,git,vscode,py,c,java,linux,bash,docker,wordpress,latex,notion,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,tailwind,github,vscode,py,c,java,linux,bash,docker,wordpress,latex,notion,discord)](https://skillicons.dev)
 
-## 🌱 Currently Exploring
+## 🌱 Currently I'm
 
-- 🚀 Learning Full Stack Web Development 
   - Exploring and learning Full Stack Web Development. 
   - Mastering Java and JavaFX for robust application development.
   - Learning C for low-level programming.
   - Crafting dynamic web apps with JavaScript.
   - Working on my DSA skills with Python
-  - Unraid environment for my server
+  - Exploring Unraid environment for my server
   - Creating APIs with Express.
   - Developing interactive UIs with React.
  
   
  ## 🏆 Achievements
- - RootMe : 
- - LeetCode :
- - CTF : 
+ - RootMe : +1000pts [My Account](https://www.root-me.org/lueasf?lang=fr#69249ef999e8cf15f9ee4301e1030082)
+ - LeetCode : +50 problems solved [My Account](https://leetcode.com/u/lueasf/)
+ - CTF : TRACS (Centrales Supelec, Paris), LeHack (Paris), GreHack (Grenobles, France)
 
 - 💬 Ask me about painting & philosophy
 - 📫 How to reach me : lucie.correia@telecomnancy.eu
