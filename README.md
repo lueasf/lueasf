@@ -2,7 +2,7 @@
 
 I am a passionate CS student at Telecom Nancy (France), driven by a curiosity for technology. My journey involves exploring new ideas, and sharing views with my YouTube Chanel : .
 
-![<Lueasf>'s Stats](https://github-readme-stats.vercel.app/api?username=<lueasf>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Lueasf's Stats](https://github-readme-stats.vercel.app/api?username=lueasf&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
