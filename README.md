@@ -1,4 +1,4 @@
-# Hi, I'm <Lueasf>! 👋
+# Hi, I'm Lueasf! 👋
 
 I am a passionate CS student at Telecom Nancy (France), driven by a curiosity for technology. My journey involves exploring new ideas, and sharing views with my YouTube Chanel : .
 
@@ -11,7 +11,7 @@ I am a passionate CS student at Telecom Nancy (France), driven by a curiosity fo
 - 🌐 Proud member of the hacking club of my engineering school [hackin'TN](https://github.com/Hackin-TN), contributing to the creation of our CTF and courses.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,python,c,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,tailwind,git,vscode,py,c,java,linux,bash,docker,wordpress,latex,notion,discord)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
