@@ -28,7 +28,7 @@ I am a passionate CS student at Telecom Nancy (France), driven by a curiosity, w
   
  ## 🏆 Achievements
  - RootMe : +1000pts [My Account](https://www.root-me.org/lueasf?lang=fr#69249ef999e8cf15f9ee4301e1030082)
- - LeetCode : +50 problems solved [My Account](https://leetcode.com/u/lueasf/)
+ - LeetCode : +80 problems solved [My Account](https://leetcode.com/u/lueasf/)
  - CTF : TRACS (Centrales Supelec, Paris), LeHack (Paris), GreHack (Grenobles, France)
 
 - 💬 Ask me about painting & philosophy
