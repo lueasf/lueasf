@@ -7,7 +7,7 @@ I am a passionate CS student at Telecom Nancy (France), driven by a curiosity, w
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my Master's in Computer Science at Telecom Nancy, France, after completing a 2-year Preparatory Class in Mathematics and Physics.
-- 📝 I post interviews about IT projects on YouTube [youtube.com](https://www.youtube.com/@ITeaser_), accumulating over 16k views within few months.
+- 📝 I post interviews about IT projects on YouTube [youtube.com](https://www.youtube.com/@ITeaser_), accumulating over 20k views within few months.
 - 🌐 I'm the secretary of the hacking club of my engineering school [hackin'TN](https://github.com/Hackin-TN), contributing to the creation of our CTF and courses.
 
 ## Tech Stack
