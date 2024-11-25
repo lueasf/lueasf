@@ -2,8 +2,6 @@
 
 I am a passionate CS student at Telecom Nancy (France), driven by a curiosity, who never has enough time. My journey involves exploring new ideas, and sharing views with my YouTube Chanel.
 
-![Lueasf's Stats](https://github-readme-stats.vercel.app/api?username=lueasf&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
-
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my Master's in Computer Science at Telecom Nancy, France, after completing a 2-year Preparatory Class in Mathematics and Physics.
@@ -42,5 +40,5 @@ I am a passionate CS student at Telecom Nancy (France), driven by a curiosity, w
 
 Thanks for reading ! 
 
-
+<!--![Lueasf's Stats](https://github-readme-stats.vercel.app/api?username=lueasf&theme=synthwave&show_icons=true&hide_border=true&count_private=true)-->
 
