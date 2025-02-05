@@ -3,7 +3,7 @@
 I am a passionate CS & Cybersecurity student at Telecom Nancy (France), driven by a curiosity, who never has enough time.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=py,c,java,linux,bash,js,html,css,react,nodejs,tailwind,github,vscode,docker,wordpress,latex,notion,discord,figma,pr)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,java,linux,bash,js,html,css,react,nodejs,tailwind,github,vscode,docker,aws,wordpress,latex,notion,discord,figma,pr)](https://skillicons.dev)
   
  ## 🏆 Achievements
  - RootMe : +1300pts [My Account](https://www.root-me.org/lueasf?lang=fr#69249ef999e8cf15f9ee4301e1030082)
