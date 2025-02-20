@@ -10,16 +10,13 @@ I am a passionate CS & Cybersecurity student at Telecom Nancy (France), driven b
  - LeetCode : +80 problems solved [My Account](https://leetcode.com/u/lueasf/)
  - CTFs : TRACS (Centrales Supelec, Paris), LeHack (Paris), GreHack (Grenobles, France)
  - 📝 I post interviews about IT projects on YouTube [youtube.com](https://www.youtube.com/@ITeaser_), accumulating over 20k views within few months.
-
-- 💬 Ask me about painting & philosophy
+   
 - 📫 How to reach me : lucie.correia@telecomnancy.eu
 - 😄 Pronouns: she/her
 
 ## 📬 Get in Touch
 
 - Connect with me on [Linkedin](https://www.linkedin.com/in/lucie-correia-89943a183/)
-- Connect with me on [Twitter](https://x.com/ITeaser_)
-- Connect with me on [Instagram](https://www.instagram.com/iteaseroff/)
 
 Thanks for reading ! 
 
