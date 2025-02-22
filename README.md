@@ -1,6 +1,6 @@
 # Hi, I'm Lueasf! 👋
 
-I am a passionate CS & Cybersecurity student at Telecom Nancy (France), driven by a curiosity, who never has enough time.
+I am a passionate CS & Cybersecurity student at Telecom Nancy (France), driven by curiosity, who never has enough time.
 
 ## Tech Stack
 ### Programming Languages
