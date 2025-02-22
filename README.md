@@ -49,19 +49,18 @@ I am a passionate CS & Cybersecurity student at Telecom Nancy (France), driven b
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-  
- ## 🏆 Achievements
+
+## 🏆 Achievements
  - RootMe : +1300pts [My Account](https://www.root-me.org/lueasf?lang=fr#69249ef999e8cf15f9ee4301e1030082)
  - LeetCode : +80 problems solved [My Account](https://leetcode.com/u/lueasf/)
  - CTFs : TRACS (Centrales Supelec, Paris), LeHack (Paris), GreHack (Grenobles, France)
  - 📝 I post interviews about IT projects on YouTube [youtube.com](https://www.youtube.com/@ITeaser_), accumulating over 20k views within few months.
-   
-- 📫 How to reach me : lucie.correia@telecomnancy.eu
-- 😄 Pronouns: she/her
+
 
 ## 📬 Get in Touch
 
 - Connect with me on [Linkedin](https://www.linkedin.com/in/lucie-correia-89943a183/)
+- Reach out to me : lucie.correia@telecomnancy.eu
 
 Thanks for reading ! 
 
