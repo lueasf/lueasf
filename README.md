@@ -2,7 +2,7 @@
 
 I am a passionate Computer Science student at Telecom Nancy (France), driven by curiosity, who never has enough time.
 
-→ Here is my [portfolio](https://lueasf.github.io/).
+→ Here is my [portfolio](https://luciec.me/).
 
 <!-- ## Tech Stack
 ### Programming Languages
