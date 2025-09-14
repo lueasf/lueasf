@@ -1,6 +1,6 @@
 # Hi, I'm Lucie !
 
-I am a passionate Computer Science student at Telecom Nancy (France), driven by curiosity, who never has enough time.
+I am a passionate student, driven by curiosity, who never has enough time.
 
 → Here is my [portfolio](https://luciec.me/).
 
