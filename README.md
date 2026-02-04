@@ -2,7 +2,7 @@
 
 I am a passionate student, driven by curiosity, who never has enough time.
 
-→ Here is my [portfolio](https://luciec.me/).
+→ Here is my [portfolio](https://social.mtdv.me/blog/posts/portfoliolc).
 
 <!-- ## Tech Stack
 ### Programming Languages
