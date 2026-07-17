@@ -1,8 +1,6 @@
-# Hi, I'm Lucie !
+# Hi I'm Lucie
 
-I am a passionate student, driven by curiosity, who never has enough time.
-
-→ Here is my [portfolio](https://social.mtdv.me/blog/posts/portfoliolc).
+Who am I ? [website](https://lueasf.github.io/)
 
 <!-- ## Tech Stack
 ### Programming Languages
